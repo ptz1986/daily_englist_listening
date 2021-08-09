@@ -39,6 +39,8 @@
 
 + media giant : 媒体巨头
 
+
+
 ### four-day working week
 
 + norm : n 常态， normal 去掉 al 这个形容词后缀。
@@ -119,3 +121,125 @@
   > employee : 雇员
 
 + swiftly : adv 很快地
+
+
+
+### what if bitcoin went to zero
+
++ what if : 如果
+
++ go to zero : 归零
+
++ crypto- : adj 秘密的
+
+  > a crypto-communist : 地下共产党员
+
++ wonder : n 奇迹
+
++ currency : n 货币
+
++ list : v 公司上市
+
+  > listed company : 上市公司。
+
++ combined : adj 加在一起的
+
++ market capitalisation : 市场总值
+
+  > combined market capitalisation : 加在一起的总市值
+
++ explode : vi 激增，是从本意的爆炸引申出来的
+
++ $bn : 十亿
+
++ $trn : 万亿
+
++ roughly : adv 大致
+
++ equivalent to sth : 价值相当于
+
+  > roughly equivalent to : 约等于
+
++ norminal gdp : 名义国内生产总值
+
++ sophisticated : adj 老练的
+
++ deep-pocketed : adj 有钱的，从原意是很深的口袋引申出来的
+
++ institution : n 机构
+
++ account for : 数量上占...
+
++ trading : n 交易
+
++ up from : 从什么涨上来
+
++ maturing : 成熟
+
++ fail to do sth : 没有做，表示否定
+
+  > He failed to keep the appointment. 他没有履约
+
++ tame : vt 使易于控制，是从原意驯化动物引申出来的
+
++ gyration : n 旋转
+
+  > wild gyration : 价格剧烈的波动
+
++ characterise : vt 是...的特征
+
++ sink : vi 减少，从原意的下沉引申出来的
+
++ hover : vi 靠近，徘徊
+
+  > hovers around $40,000 : 徘徊在 4000 美元
+
++ downward : adj 向下的
+
++ lurch : n 突然向前或一侧倾斜
+
++ raises the question : 提到一个问题
+
++ fallout : 后果，一般是坏结果
+
++ at stake : 有风险
+
++ collapse : vi 崩溃
+
++ not just : 不仅仅
+
++ die-hard : n 顽固分子，坚定持有者
+
++ grasp : vt 抓住
+
++ sphere : n 领域，从原意球引申出来的
+
+  > the political sphere 政界
+
++ crash : vi 贬值，暴跌
+
++ all the way : 一路下去
+
+  > crashes all the way to zero : 一路跌到0
+
++ destruction : n 毁灭
+
++ a significant amount of wealth : 大量的财富
+
++ long-term holders : 长期持有者
+
++ cede : vt 放弃，原意是割让土地
+
++ unrealised : adj 未变现的
+
++ institutional investor : 机构投资者
+
+  > private investor : 个人投资者
+
++ expose sb. to sth. : 使体验
+
++ hedge funds : 对冲基金
+
++ university endowments : 大学捐赠基金
+
++ mutual funds : 共同基金
