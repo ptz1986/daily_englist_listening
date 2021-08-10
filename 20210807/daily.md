@@ -243,3 +243,85 @@
 + university endowments : 大学捐赠基金
 
 + mutual funds : 共同基金
+
+
+
+### The chip shortage is a self-solving problem
+
++ firm : n 公司
+
++ crisis : n 危机
+
++ one sth is another's sth : 比如你的优点是他人的缺点。
+
++ shortage of : 短缺
+
++ pump up : 疯涨
+
++ valuation : n 估值
+
++ power : vt 提供动力
+
++ boom : n 繁荣
+
++ misery : n 痛苦
+
++ carmakers : n 汽车制造商
+
++ victim : n 受害者
+
++ profit : n 利润
+
++ volume : n 量
+
++ amid : prep 在...情况下
+
++ analyst : n 分析师
+
++ want : n 需求
+
++ pinch : n 压力，从原意夹引申出来
+
+  > feel the pinch : 感到压力
+
++ agenda : n 议程
+
+  > be on the agenda : 在议程上
+
++ vice-president : 副总统
+
++ Vietnam : n 越南
+
++ flourishing : adj 繁荣的
+
++ outgoing : adj 即将离任的
+
++ chancellor : n 总理
+
++ lament : vt 哀叹
+
++ share : n 所占份额
+
++ surge : n 激增
+
++ demand : vi 需要
+
++ chipmaking : 芯片制造
+
++ cyclical : adj 周期的
+
++ peak : n 峰
+
++ trough : n 谷
+
++ creep : vi 蔓延
+
++ trend : n 趋势
+
++ amplify : v 放大
+
++ wile : v 消遣
+
++ spike : n 激增
+
++ clog : v 堵塞
